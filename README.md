@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤝 I’m a member of the Turing group.
+I’m a bachelor's student in software engineering.
 
 
 ## 🌐 Socials:
